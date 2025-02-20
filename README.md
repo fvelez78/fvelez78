@@ -1,4 +1,4 @@
-# BIENVENIDOS A MI REPOSITORIO DE GITHUB
+# WELCOME TO MY GITHUB REPOSITORY
 
 
 <a href="https://www.github.com/fvelez78" target="_blank" rel="noreferrer"><img
