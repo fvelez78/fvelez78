@@ -22,9 +22,16 @@ Aquí encontrarás:
 
 ### Habilidades
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>&nbsp;&nbsp;&nbsp;
+ 
+ ![R](icons/r.svg)
+![Python](icons/python.svg)
+![SQL](icons/sql.svg)
+![IBM SPSS](icons/spss.svg)
+![VBA](icons/vba.svg)
+![Power BI](icons/powerbi.svg)
+![VSCode](icons/vscode.svg)
+![RStudio](icons/rstudio.svg)
+          
 </p>
 
 ---
