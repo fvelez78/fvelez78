@@ -24,7 +24,8 @@ Aquí encontrarás:
 <p align="left">
  
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,vscode,latex,md,git,github" />
+    <img src="https://skillicons.dev/icons?i=r,py,vscode,latex,md,git,github,sqlite" />
+    
   </a>
           
 </p>
@@ -53,6 +54,7 @@ Aquí encontrarás:
 
 ### Badges
 <p align="left">
+ 
   <!-- Python -->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Numpy-%23ffde57?style=plastic&logo=Python" alt="numpy" /></a>&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-%23ffde57?style=plastic&logo=Python" alt="pandas" /></a>&nbsp;
