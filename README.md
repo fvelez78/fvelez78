@@ -23,14 +23,9 @@ Aquí encontrarás:
 ### Habilidades
 <p align="left">
  
- ![R](icons/r.svg)
-![Python](icons/python.svg)
-![SQL](icons/sql.svg)
-![IBM SPSS](icons/spss.svg)
-![VBA](icons/vba.svg)
-![Power BI](icons/powerbi.svg)
-![VSCode](icons/vscode.svg)
-![RStudio](icons/rstudio.svg)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r,py,vscode,latex,md,git,github" />
+  </a>
           
 </p>
 
@@ -72,7 +67,7 @@ Aquí encontrarás:
   <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ggplot2-%23165caa?style=plastic&logo=R" alt="Ggplot2" /></a>&nbsp;
   <a href="https://github.com/rstudio/dygraphs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dygraphs-%23165caa?style=plastic&logo=R" alt="Dygraphs" /></a>&nbsp;
   <a href="https://cran.r-project.org/web/packages/FactoMineR/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FactoMineR-%23165caa?style=plastic&logo=R" alt="FactoMineR" /></a>&nbsp;
-  <a href="https://cran.r-project.org/web/packages/caret/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Caret-%23165caa?style=plastic&logo=R" alt="Caret" /></a>
+  
 </p>
 
 ---
